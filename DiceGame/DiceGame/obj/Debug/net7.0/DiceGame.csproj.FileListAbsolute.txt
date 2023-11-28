@@ -1,0 +1,14 @@
+F:\100DaysOfCode\SiSharp\DiceGame\DiceGame\bin\Debug\net7.0\DiceGame.exe
+F:\100DaysOfCode\SiSharp\DiceGame\DiceGame\bin\Debug\net7.0\DiceGame.deps.json
+F:\100DaysOfCode\SiSharp\DiceGame\DiceGame\bin\Debug\net7.0\DiceGame.runtimeconfig.json
+F:\100DaysOfCode\SiSharp\DiceGame\DiceGame\bin\Debug\net7.0\DiceGame.dll
+F:\100DaysOfCode\SiSharp\DiceGame\DiceGame\bin\Debug\net7.0\DiceGame.pdb
+F:\100DaysOfCode\SiSharp\DiceGame\DiceGame\obj\Debug\net7.0\DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\100DaysOfCode\SiSharp\DiceGame\DiceGame\obj\Debug\net7.0\DiceGame.AssemblyInfoInputs.cache
+F:\100DaysOfCode\SiSharp\DiceGame\DiceGame\obj\Debug\net7.0\DiceGame.AssemblyInfo.cs
+F:\100DaysOfCode\SiSharp\DiceGame\DiceGame\obj\Debug\net7.0\DiceGame.csproj.CoreCompileInputs.cache
+F:\100DaysOfCode\SiSharp\DiceGame\DiceGame\obj\Debug\net7.0\DiceGame.dll
+F:\100DaysOfCode\SiSharp\DiceGame\DiceGame\obj\Debug\net7.0\refint\DiceGame.dll
+F:\100DaysOfCode\SiSharp\DiceGame\DiceGame\obj\Debug\net7.0\DiceGame.pdb
+F:\100DaysOfCode\SiSharp\DiceGame\DiceGame\obj\Debug\net7.0\DiceGame.genruntimeconfig.cache
+F:\100DaysOfCode\SiSharp\DiceGame\DiceGame\obj\Debug\net7.0\ref\DiceGame.dll

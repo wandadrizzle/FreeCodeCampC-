@@ -1,0 +1,14 @@
+F:\100DaysOfCode\CSharp\ProcessingArrayData\GradesChallenge\bin\Debug\net7.0\GradesChallenge.exe
+F:\100DaysOfCode\CSharp\ProcessingArrayData\GradesChallenge\bin\Debug\net7.0\GradesChallenge.deps.json
+F:\100DaysOfCode\CSharp\ProcessingArrayData\GradesChallenge\bin\Debug\net7.0\GradesChallenge.runtimeconfig.json
+F:\100DaysOfCode\CSharp\ProcessingArrayData\GradesChallenge\bin\Debug\net7.0\GradesChallenge.dll
+F:\100DaysOfCode\CSharp\ProcessingArrayData\GradesChallenge\bin\Debug\net7.0\GradesChallenge.pdb
+F:\100DaysOfCode\CSharp\ProcessingArrayData\GradesChallenge\obj\Debug\net7.0\GradesChallenge.GeneratedMSBuildEditorConfig.editorconfig
+F:\100DaysOfCode\CSharp\ProcessingArrayData\GradesChallenge\obj\Debug\net7.0\GradesChallenge.AssemblyInfoInputs.cache
+F:\100DaysOfCode\CSharp\ProcessingArrayData\GradesChallenge\obj\Debug\net7.0\GradesChallenge.AssemblyInfo.cs
+F:\100DaysOfCode\CSharp\ProcessingArrayData\GradesChallenge\obj\Debug\net7.0\GradesChallenge.csproj.CoreCompileInputs.cache
+F:\100DaysOfCode\CSharp\ProcessingArrayData\GradesChallenge\obj\Debug\net7.0\GradesChallenge.dll
+F:\100DaysOfCode\CSharp\ProcessingArrayData\GradesChallenge\obj\Debug\net7.0\refint\GradesChallenge.dll
+F:\100DaysOfCode\CSharp\ProcessingArrayData\GradesChallenge\obj\Debug\net7.0\GradesChallenge.pdb
+F:\100DaysOfCode\CSharp\ProcessingArrayData\GradesChallenge\obj\Debug\net7.0\GradesChallenge.genruntimeconfig.cache
+F:\100DaysOfCode\CSharp\ProcessingArrayData\GradesChallenge\obj\Debug\net7.0\ref\GradesChallenge.dll
