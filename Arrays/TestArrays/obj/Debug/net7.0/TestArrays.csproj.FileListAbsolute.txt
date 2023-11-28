@@ -1,0 +1,14 @@
+F:\100DaysOfCode\SiSharp\Arrays\TestArrays\bin\Debug\net7.0\TestArrays.exe
+F:\100DaysOfCode\SiSharp\Arrays\TestArrays\bin\Debug\net7.0\TestArrays.deps.json
+F:\100DaysOfCode\SiSharp\Arrays\TestArrays\bin\Debug\net7.0\TestArrays.runtimeconfig.json
+F:\100DaysOfCode\SiSharp\Arrays\TestArrays\bin\Debug\net7.0\TestArrays.dll
+F:\100DaysOfCode\SiSharp\Arrays\TestArrays\bin\Debug\net7.0\TestArrays.pdb
+F:\100DaysOfCode\SiSharp\Arrays\TestArrays\obj\Debug\net7.0\TestArrays.GeneratedMSBuildEditorConfig.editorconfig
+F:\100DaysOfCode\SiSharp\Arrays\TestArrays\obj\Debug\net7.0\TestArrays.AssemblyInfoInputs.cache
+F:\100DaysOfCode\SiSharp\Arrays\TestArrays\obj\Debug\net7.0\TestArrays.AssemblyInfo.cs
+F:\100DaysOfCode\SiSharp\Arrays\TestArrays\obj\Debug\net7.0\TestArrays.csproj.CoreCompileInputs.cache
+F:\100DaysOfCode\SiSharp\Arrays\TestArrays\obj\Debug\net7.0\TestArrays.dll
+F:\100DaysOfCode\SiSharp\Arrays\TestArrays\obj\Debug\net7.0\refint\TestArrays.dll
+F:\100DaysOfCode\SiSharp\Arrays\TestArrays\obj\Debug\net7.0\TestArrays.pdb
+F:\100DaysOfCode\SiSharp\Arrays\TestArrays\obj\Debug\net7.0\TestArrays.genruntimeconfig.cache
+F:\100DaysOfCode\SiSharp\Arrays\TestArrays\obj\Debug\net7.0\ref\TestArrays.dll
