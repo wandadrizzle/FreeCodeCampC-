@@ -1,0 +1,14 @@
+F:\100DaysOfCode\CSharp\Expressions\TestProject\bin\Debug\net7.0\TestProject.exe
+F:\100DaysOfCode\CSharp\Expressions\TestProject\bin\Debug\net7.0\TestProject.deps.json
+F:\100DaysOfCode\CSharp\Expressions\TestProject\bin\Debug\net7.0\TestProject.runtimeconfig.json
+F:\100DaysOfCode\CSharp\Expressions\TestProject\bin\Debug\net7.0\TestProject.dll
+F:\100DaysOfCode\CSharp\Expressions\TestProject\bin\Debug\net7.0\TestProject.pdb
+F:\100DaysOfCode\CSharp\Expressions\TestProject\obj\Debug\net7.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\100DaysOfCode\CSharp\Expressions\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfoInputs.cache
+F:\100DaysOfCode\CSharp\Expressions\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfo.cs
+F:\100DaysOfCode\CSharp\Expressions\TestProject\obj\Debug\net7.0\TestProject.csproj.CoreCompileInputs.cache
+F:\100DaysOfCode\CSharp\Expressions\TestProject\obj\Debug\net7.0\TestProject.dll
+F:\100DaysOfCode\CSharp\Expressions\TestProject\obj\Debug\net7.0\refint\TestProject.dll
+F:\100DaysOfCode\CSharp\Expressions\TestProject\obj\Debug\net7.0\TestProject.pdb
+F:\100DaysOfCode\CSharp\Expressions\TestProject\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
+F:\100DaysOfCode\CSharp\Expressions\TestProject\obj\Debug\net7.0\ref\TestProject.dll

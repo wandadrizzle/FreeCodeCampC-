@@ -1,0 +1,14 @@
+F:\100DaysOfCode\CSharp\Expressions\CoinFlip\obj\Debug\net7.0\CoinFlip.GeneratedMSBuildEditorConfig.editorconfig
+F:\100DaysOfCode\CSharp\Expressions\CoinFlip\obj\Debug\net7.0\CoinFlip.AssemblyInfoInputs.cache
+F:\100DaysOfCode\CSharp\Expressions\CoinFlip\obj\Debug\net7.0\CoinFlip.AssemblyInfo.cs
+F:\100DaysOfCode\CSharp\Expressions\CoinFlip\obj\Debug\net7.0\CoinFlip.csproj.CoreCompileInputs.cache
+F:\100DaysOfCode\CSharp\Expressions\CoinFlip\bin\Debug\net7.0\CoinFlip.exe
+F:\100DaysOfCode\CSharp\Expressions\CoinFlip\bin\Debug\net7.0\CoinFlip.deps.json
+F:\100DaysOfCode\CSharp\Expressions\CoinFlip\bin\Debug\net7.0\CoinFlip.runtimeconfig.json
+F:\100DaysOfCode\CSharp\Expressions\CoinFlip\bin\Debug\net7.0\CoinFlip.dll
+F:\100DaysOfCode\CSharp\Expressions\CoinFlip\bin\Debug\net7.0\CoinFlip.pdb
+F:\100DaysOfCode\CSharp\Expressions\CoinFlip\obj\Debug\net7.0\CoinFlip.dll
+F:\100DaysOfCode\CSharp\Expressions\CoinFlip\obj\Debug\net7.0\refint\CoinFlip.dll
+F:\100DaysOfCode\CSharp\Expressions\CoinFlip\obj\Debug\net7.0\CoinFlip.pdb
+F:\100DaysOfCode\CSharp\Expressions\CoinFlip\obj\Debug\net7.0\CoinFlip.genruntimeconfig.cache
+F:\100DaysOfCode\CSharp\Expressions\CoinFlip\obj\Debug\net7.0\ref\CoinFlip.dll
